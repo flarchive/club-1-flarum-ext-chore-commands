@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of club-1/flarum-ext-chore-commands.** Not for installation: use [Packagist](https://packagist.org/packages/club-1/flarum-ext-chore-commands) or the [upstream repository](https://github.com/club-1/flarum-ext-chore-commands).
 
-**0** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/club-1-flarum-ext-chore-commands/tree/archive/v1.0.0) · License: `AGPL-3.0-or-later` · Flarum: `^1.2.0`
+**3** versions archived · Latest: [`v1.0.0`](https://github.com/flarchive/club-1-flarum-ext-chore-commands/tree/archive/v1.0.0) · License: `AGPL-3.0-or-later` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2023-04-26 | `^1.2.0` | [Browse](https://github.com/flarchive/club-1-flarum-ext-chore-commands/tree/archive/v0.1.0) |
+| `v0.1.1` | 2023-04-27 | `^1.2.0` | [Browse](https://github.com/flarchive/club-1-flarum-ext-chore-commands/tree/archive/v0.1.1) |
+| `v1.0.0` | 2023-05-03 | `^1.2.0` | [Browse](https://github.com/flarchive/club-1-flarum-ext-chore-commands/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/club-1-flarum-ext-chore-commands.json](https://github.com/flarchive/archive-index/blob/main/packages/club-1-flarum-ext-chore-commands.json)
 
